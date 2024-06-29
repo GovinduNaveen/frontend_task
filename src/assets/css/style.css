@@ -1,0 +1,44 @@
+.form {
+    display: flex;
+
+    justify-content: center;
+
+
+}
+
+.line-break {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+
+
+
+}
+
+.formarrangement {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    border-spacing: 5px;
+    justify-content: space-between;
+
+}
+
+.button {
+
+    width: 80px;
+    height: 30px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+
+.button2 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10%;
+}
